@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6 hogerlager\bin\Debug\net6.0\6.6 hogerlager.exe
+D:\multimedi\Cscherp\6.6 hogerlager\bin\Debug\net6.0\6.6 hogerlager.deps.json
+D:\multimedi\Cscherp\6.6 hogerlager\bin\Debug\net6.0\6.6 hogerlager.runtimeconfig.json
+D:\multimedi\Cscherp\6.6 hogerlager\bin\Debug\net6.0\6.6 hogerlager.dll
+D:\multimedi\Cscherp\6.6 hogerlager\bin\Debug\net6.0\6.6 hogerlager.pdb
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.dll
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\refint\6.6 hogerlager.dll
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.pdb
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\6.6 hogerlager.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6 hogerlager\obj\Debug\net6.0\ref\6.6 hogerlager.dll
